@@ -1,6 +1,6 @@
 # KeeperApp
 ### https://svvblw.csb.app/
-This is a Google Keep inspired, Notes keeping app - "Keeper" to manage all your notes. It has been developed using React and JSX and styled with CSS and Material UI.
+This is a Google Keep inspired, Notes keeping app - "Keeper" to manage all your notes. It has been developed using React and JSX and styled with CSS and Material UI. Executed the concept of components, props and destructuring to implement render, usestate, map, reduce and filter functions.
 
 
 **Tech Stack-**
